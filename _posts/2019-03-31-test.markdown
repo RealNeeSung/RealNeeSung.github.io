@@ -1,1 +1,1 @@
-![图片-头像]({{ "/images/头像.jpg" | absolute_url }})
+![图片-头像]({{ "/images/头像.jpg" }})
